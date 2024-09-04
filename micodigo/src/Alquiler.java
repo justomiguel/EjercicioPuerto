@@ -7,4 +7,5 @@ public class Alquiler {
     LocalDate fechaFin;
     Barco barco;
     short posAmarre;
+
 }
